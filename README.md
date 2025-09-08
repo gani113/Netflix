@@ -7,7 +7,7 @@ https://medium.com/@vijaygiduthuri67/deploying-netflix-clone-on-aws-using-devsec
 
 
 
-# **Install Jenkins on Ubuntu:**
+# **Install Jenkins on Ubuntu:***
 ![image](https://github.com/vijaygiduthuri/Netflix/assets/125960600/69e812bd-d639-409d-874b-64f501e35027)
 
 ```
